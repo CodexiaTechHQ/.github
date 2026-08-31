@@ -21,15 +21,15 @@
 
 **Codexia** is a technology-driven organization specializing in building high-performance web and mobile applications integrated with **embedded Artificial Intelligence (ML/DL)** and **proactive Cybersecurity architectures**.
 
-We bridge the gap between complex software requirements and robust security engineering. From intelligent desktop applications to security monitoring systems and data-driven mobile apps, Codexia engineers solutions built for reliability and performance.
+We bridge the gap between complex software requirements and robust security engineering. From intelligent mobile platforms to security auditing tools and data-driven systems, Codexia engineers solutions built for reliability, privacy, and speed.
 
 ---
 
 ### 🚀 Core Competencies & Solutions
 
-* **🛡️ Cybersecurity Architectures & Systems Monitoring:** Custom threat detection, permission auditing tools, and proactive system logging frameworks.
-* **🤖 Artificial Intelligence & Machine Learning:** Embedded ML models, predictive analysis, and intelligent OCR integration for modern applications.
-* **📱 Full-Stack Web & Mobile Engineering:** Native Android applications (Kotlin/Room), scalable web platforms (Flask/Django/React), and cross-platform desktop software.
+* **🛡️ Cybersecurity Architectures & Systems Auditing:** Custom threat detection, dynamic permission logging tools, and proactive security frameworks.
+* **🤖 Embedded AI & Data Science:** On-device ML models, smart camera OCR integrations, and automated financial analytics.
+* **📱 Full-Stack Web & Mobile Engineering:** Native Android applications (Kotlin/Room), high-performance arcade engines, and scalable web architectures (Flask/Django/React).
 
 ---
 
@@ -37,27 +37,34 @@ We bridge the gap between complex software requirements and robust security engi
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Kotlin, C++, JavaScript, Java, SQL, Bash |
-| **Cybersecurity & Infra** | System Auditing, Linux Kernel, Docker, Dynamic Logging, Network Security |
-| **AI & Data Science** | PyTorch, Scikit-Learn, Pandas, MLflow, OpenCV |
-| **Web & Mobile** | Flask, Django, React, Android SDK, Room DB, SQLite |
+| **Languages** | Kotlin, Python, C++, JavaScript, Java, SQL, Bash |
+| **Mobile & Desktop** | Android SDK, Jetpack Compose, Room DB, SQLite, PyQt |
+| **Cybersecurity & Infra** | System Auditing, Linux Kernel, Docker, Network Security, Dynamic Logging |
+| **AI & Data Science** | PyTorch, Google ML Kit (OCR), Scikit-Learn, Pandas, MLflow, OpenCV |
+| **Web Platforms** | Flask, Django, React, RESTful APIs |
 
 ---
 
-### 📌 Featured Repositories & Products
+### 📌 Featured Products & Live Releases
 
-* 🛡️ **SafeCheckByCodexia:** Android system security auditing application for dynamic permission logging and risk analysis.
-* 📊 **SpendWise:** Smart expense tracking Android platform powered by camera OCR and automated ledger categorization.
+* 📊 **WiseSpend (Android):** Security-first financial management application with offline-first Room DB architecture and category analytics.  
+  👉 **[View Repository](https://github.com/CodexiaTechHQ/WiseSpend)** | 📲 **[Get on Google Play](https://play.google.com/store/apps/details?id=com.codexiatechhq.wisespend)**
+
+* 🎮 **CodexiaBlock (Android):** Optimized, high-performance mobile arcade game built with light-weight rendering logic.  
+  👉 **[View Repository](https://github.com/CodexiaTechHQ/CodexiaBlock)** | 📲 **[Get on Google Play](https://play.google.com/store/apps/details?id=com.codexiatechhq.codexiablock)**
+
+* 🛡️ **SafeCheckByCodexia:** Android system security auditing platform designed for dynamic permission tracking and local risk assessment.
+
 * 📚 **LibraDesk:** Lightweight, offline-first digital library management desktop suite.
 
 ---
 
 ### 🤝 Business & Collaboration
 
-We are open to strategic technical partnerships, commercial client engagements, and open-source collaborations.
+We are open to strategic technical partnerships, commercial client engagements, and high-impact software collaborations.
 
-* **Website / Portfolio:** [codexia-landing-page.onrender.com](https://codexia-landing-page.onrender.com)
-* **Direct Business Inquiries:** `codexiatechhq@gmail.com`
+* **Official Website:** [codexia-landing-page.onrender.com](https://codexia-landing-page.onrender.com)
+* **Direct Business Contact:** `codexiatechhq@gmail.com`
 * **Lead Architect & Founder:** [Selim Çınar](https://github.com/SELIMCNR)
 
 <br>
